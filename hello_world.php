@@ -1,6 +1,6 @@
 <?php 
 echo '#-------------------------#';
 echo 'Hello World!!!';
-echo 'aaaaa';
+echo 'Hello Sanno Kuma';
 echo 'Gitfy Install !!';
 ?>
